@@ -20,7 +20,7 @@ A modern, responsive, and user-friendly platform for managing teachers and payme
 
 ## 🖥️ Live Demo
 
-[🔗 View the live app on Vercel](https://your-vercel-demo-link.vercel.app)
+[🔗 View the live app on Vercel](https://edu-track-b0v0x1cdf-hemantt1999s-projects.vercel.app/)
 
 ---
 
