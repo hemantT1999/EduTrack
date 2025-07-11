@@ -2,10 +2,6 @@
 
 A modern, responsive, and user-friendly platform for managing teachers and payments in educational institutions.
 
-![Live Demo Screenshot](c:/Users/LENOVO/Downloads/edutrack%20image.png)
-
----
-
 ## 🚀 Features
 
 - **👥 Teacher Management:** Add, edit, delete, and search teacher profiles with avatars and subject tracking.
@@ -20,7 +16,7 @@ A modern, responsive, and user-friendly platform for managing teachers and payme
 
 ## 🖥️ Live Demo
 
-[🔗 View the live app on Vercel](https://edu-track-b0v0x1cdf-hemantt1999s-projects.vercel.app/)
+[🔗 View the live app on Vercel](https://your-vercel-demo-link.vercel.app)
 
 ---
 
