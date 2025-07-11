@@ -2,7 +2,7 @@
 
 A modern, responsive, and user-friendly platform for managing teachers and payments in educational institutions.
 
-![EduTrack Banner](https://edu-track-b0v0x1cdf-hemantt1999s-projects.vercel.app/)
+![Live Demo Screenshot](c:/Users/LENOVO/Downloads/edutrack%20image.png)
 
 ---
 
